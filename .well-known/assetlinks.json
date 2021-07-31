@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.zloy_di.twa",
+    "sha256_cert_fingerprints":
+    ["32:5F:47:D3:D3:99:40:4B:BA:B5:C1:49:7B:6C:F3:C0:04:15:A6:9C:1D:19:82:A7:C8:8E:9C:4A:64:00:0F:03"]
+  }
+}]
